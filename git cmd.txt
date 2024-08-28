@@ -9,3 +9,17 @@ git status
 git add "file name"
 
 git commit -m "message"
+
+
+git restore
+
+login in GitHub
+
+git remote add origin <url_repo>
+
+
+for git push file should on localrepo only (i.e it must commited)
+
+master branch and main branch
+
+git remote remove origin---> to remove existing origin
