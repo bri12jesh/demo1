@@ -1,0 +1,11 @@
+git config --global user.name "Brijesh"
+git config --global user.email "chitrodabrijesh71@gmail.com"
+
+
+git init
+
+git status
+
+git add "file name"
+
+git commit -m "message"
