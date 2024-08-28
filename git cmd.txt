@@ -23,3 +23,17 @@ for git push file should on localrepo only (i.e it must commited)
 master branch and main branch
 
 git remote remove origin---> to remove existing origin
+
+
+esc :wq
+
+
+pull ------------
+git pull origin master(branchname)
+
+to remove uploaded file in GitHub 
+first remove from GitHub using git cmd
+
+1) git  rm login.txt
+2) git commit -m "deleted"
+3 git push origin master
