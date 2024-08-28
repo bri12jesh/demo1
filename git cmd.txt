@@ -37,3 +37,14 @@ first remove from GitHub using git cmd
 1) git  rm login.txt
 2) git commit -m "deleted"
 3 git push origin master
+
+
+---fetch and rebase
+
+git fetch 
+git rebase
+
+pull = fetch +rebase
+
+fetch --> bring the file from remote to local reopo
+rebase --> bring the file from local repo to  working directory
